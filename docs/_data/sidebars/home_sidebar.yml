@@ -10,10 +10,10 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: 'Core '
+      title: Core Module
       url: /core
     - output: web,pdf
-      title: NbTest
+      title: NbTest Module
       url: /nbtest
     output: web
     title: nbtest

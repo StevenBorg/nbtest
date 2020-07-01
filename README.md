@@ -1,8 +1,8 @@
-# NbTest
-> This is my description in the index notebook
+# Index Title
+> This is my description in the index notebook that I just edited
 
 
-This file will become your README and also the index of your documentation.
+This file will become your README and also the index of your documentation. Yes it will.
 
 ## Install
 
@@ -10,7 +10,7 @@ This file will become your README and also the index of your documentation.
 
 ## How to use NbTest
 
-Fill me in please! Don't forget code examples:
+Here's an example of saying hi!
 
 ```python
 say_hi('Steve')
