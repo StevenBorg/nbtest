@@ -1,24 +1,20 @@
-# Project name here
-> Summary description here.
+# NbTest
+> This is my description in the index notebook
 
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install nbtest`
 
-## How to use
+## How to use NbTest
 
 Fill me in please! Don't forget code examples:
 
+```python
+say_hi('Steve')
 ```
-1+1
-```
 
-
-
-
-    2
-
-
+    Hi!
+    
