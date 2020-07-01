@@ -1,6 +1,7 @@
 {
   "nbtest": {
     "Overview": "/",
-    "Title": "/nbtest"
+    "Core ": "/core",
+    "NbTest": "/nbtest"
   }
 }
